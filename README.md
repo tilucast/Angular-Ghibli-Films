@@ -1,3 +1,15 @@
+# Studio Ghibli Films
+<img src="./ghibli.png"></img>
+<img src="./ghibli2.jpg"></img>
+
+
+# About this project
+
+I found this public api from Studio Ghibli: https://ghibliapi.herokuapp.com/films, which returns all the movies and some related data, like rotten tomatoes score.
+Unfortunately, this api doesn't return the poster images, so i did it. You can find the modified api on my repository: https://github.com/tilucast/Studio-Ghibli-API (Node REST folder.) 
+
+After installing the dependencies, run **yarn dev / npm run dev** to start the server, and make a request to **http://localhost:3333**.
+
 # AngularGhibli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
